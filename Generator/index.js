@@ -85,9 +85,9 @@ const startCreating = async () => {
   );
 
   console.log();
-  console.log("#######################################");
+  console.log("##########################################");
   console.log("Welcome to NFT MIR - Meet the Fingerprints");
-  console.log("#######################################");
+  console.log("##########################################");
   console.log();
 };
 
