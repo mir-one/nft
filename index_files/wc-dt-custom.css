@@ -1,14 +1,14 @@
 @font-face {
   font-family: star;
-  src: url(../../../../wp-content/themes/dt-the7/css/compatibility/woo-fonts/star.eot);
-  src: url(../../../../wp-content/themes/dt-the7/css/compatibility/woo-fonts/star.eot?#iefix) format('embedded-opentype'), url(../../../../wp-content/themes/dt-the7/css/compatibility/woo-fonts/star.woff) format('woff'), url(../../../../wp-content/themes/dt-the7/css/compatibility/woo-fonts/star.ttf) format('truetype');
+  src: url(/web/20220826151958im_/https://nft.mir.one/wp-content/themes/dt-the7/css/compatibility/woo-fonts/star.eot);
+  src: url(/web/20220826151958im_/https://nft.mir.one/wp-content/themes/dt-the7/css/compatibility/woo-fonts/star.eot#iefix) format('embedded-opentype'), url(/web/20220826151958im_/https://nft.mir.one/wp-content/themes/dt-the7/css/compatibility/woo-fonts/star.woff) format('woff'), url(/web/20220826151958im_/https://nft.mir.one/wp-content/themes/dt-the7/css/compatibility/woo-fonts/star.ttf) format('truetype');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: WooCommerce;
-  src: url(../../../../wp-content/themes/dt-the7/css/compatibility/woo-fonts/WooCommerce.eot);
-  src: url(../../../../wp-content/themes/dt-the7/css/compatibility/woo-fonts/WooCommerce.eot?#iefix) format('embedded-opentype'), url(../../../../wp-content/themes/dt-the7/css/compatibility/woo-fonts/WooCommerce.woff) format('woff'), url(../../../../wp-content/themes/dt-the7/css/compatibility/woo-fonts/WooCommerce.ttf) format('truetype');
+  src: url(/web/20220826151958im_/https://nft.mir.one/wp-content/themes/dt-the7/css/compatibility/woo-fonts/WooCommerce.eot);
+  src: url(/web/20220826151958im_/https://nft.mir.one/wp-content/themes/dt-the7/css/compatibility/woo-fonts/WooCommerce.eot#iefix) format('embedded-opentype'), url(/web/20220826151958im_/https://nft.mir.one/wp-content/themes/dt-the7/css/compatibility/woo-fonts/WooCommerce.woff) format('woff'), url(/web/20220826151958im_/https://nft.mir.one/wp-content/themes/dt-the7/css/compatibility/woo-fonts/WooCommerce.ttf) format('truetype');
   font-weight: 400;
   font-style: normal;
 }
@@ -286,7 +286,7 @@ ul.products li.product .price ins {
 }
 button.pswp__button {
   box-shadow: none !important;
-  background-image: url(../../../../wp-content/themes/dt-the7/css/compatibility/../images/default-skin.png) !important;
+  background-image: url(/web/20220826151958im_/https://nft.mir.one/wp-content/themes/dt-the7/css/images/default-skin.png) !important;
 }
 button.pswp__button,
 button.pswp__button--arrow--left::before,
@@ -5772,3 +5772,25 @@ article.product-category .woocom-list-content .count {
   border-color: var(--the7-divider-color);
   background: none;
 }
+
+/*
+     FILE ARCHIVED ON 15:19:58 Aug 26, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:34:50 Nov 15, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 84.638
+  exclusion.robots: 0.068
+  exclusion.robots.policy: 0.058
+  cdx.remote: 0.055
+  esindex: 0.008
+  LoadShardBlock: 44.935 (3)
+  PetaboxLoader3.datanode: 95.522 (5)
+  load_resource: 358.233
+  PetaboxLoader3.resolve: 291.24
+  loaddict: 29.821
+*/

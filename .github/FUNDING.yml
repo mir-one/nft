@@ -10,4 +10,4 @@ liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
 lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-custom: ['https://tonscan.org/address/UQCjNf6y_RhVATipbgKpCBAa8h5z6mwIXv3oDY7UZRyv01Aj', 'https://tonscan.org/address/EQCjNf6y_RhVATipbgKpCBAa8h5z6mwIXv3oDY7UZRyv0w3m']
+custom: ['https://app.tonkeeper.com/transfer/UQCjNf6y_RhVATipbgKpCBAa8h5z6mwIXv3oDY7UZRyv01Aj']
